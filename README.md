@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How To Start Coding?](https://medium.com/@krupeshvithlani/how-to-start-coding-bf21e57e9ca2?source=rss-b08b8885d002------2)
 - [आयुष्मान भारत डिजिटल मिशन || Ayushman Bharat Digital Mission](https://blog.krupesh.tech/2021/10/ayushman-bharat-digital-mission.html)
 - [Get &#39;freedom&#39; from smartphones!](https://blog.krupesh.tech/2021/08/get-freedom-from-smartphones.html)
 - [Google Lens now comes to PC](https://blog.krupesh.tech/2021/08/google-lens-now-comes-to-pc.html)
+- [Quickly open any page you want in the browser &lpar;2021&rpar;](https://blog.krupesh.tech/2021/08/quickly-open-any-page-you-want-in.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
